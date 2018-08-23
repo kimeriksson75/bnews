@@ -1,0 +1,131 @@
+{
+    "tabs": {
+        "e6a1aa25-8e63-4e50-879a-7753ea72e004": {
+            "id": "e6a1aa25-8e63-4e50-879a-7753ea72e004",
+            "title": "Anton Boström | Sport | Utkast | Martin Aagård | Med statusmeddelande | Mina",
+            "showMine": true,
+            "searchFilters": [
+                {
+                    "id": "author.d67615a4-12a1-6bc9-9aaf-e093b9eddd88",
+                    "label": "Anton Boström",
+                    "type": "byline",
+                    "value": {
+                        "id": "author.d67615a4-12a1-6bc9-9aaf-e093b9eddd88",
+                        "name": "Anton Boström",
+                        "email": "anton.bostrom@gt.se",
+                        "avatarUrl": null
+                    }
+                },
+                {
+                    "id": "standard-section.d362b100-6821-ca0a-03b8-b8e05eb07afb",
+                    "label": "Sport",
+                    "type": "section",
+                    "value": {
+                        "id": "standard-section.d362b100-6821-ca0a-03b8-b8e05eb07afb",
+                        "name": "Sport"
+                    }
+                },
+                {
+                    "id": "publishStatus.draft",
+                    "label": "Utkast",
+                    "type": "publishStatus",
+                    "value": "DRAFT"
+                },
+                {
+                    "id": "author.9b1d5f14-32b9-01bf-94bd-93353335c29d",
+                    "label": "Martin Aagård",
+                    "type": "byline",
+                    "value": {
+                        "id": "author.9b1d5f14-32b9-01bf-94bd-93353335c29d",
+                        "name": "Martin Aagård",
+                        "email": "kulturen@expressen.se",
+                        "avatarUrl": null
+                    }
+                },
+                {
+                    "id": "statusMessage.yes",
+                    "label": "Med statusmeddelande",
+                    "type": "statusMessage",
+                    "value": true
+                }
+            ],
+            "dateRanges": {},
+            "sort": "updatedAt",
+            "articles": [],
+            "scrollPosition": 0,
+            "page": 1,
+            "pages": 0
+        },
+        "dd0b839e-baac-4275-b06f-215638c72fd9": {
+            "id": "dd0b839e-baac-4275-b06f-215638c72fd9",
+            "title": "Planerad | Mina | Planerade",
+            "showMine": true,
+            "searchFilters": [
+                {
+                    "id": "plannedStatus.all",
+                    "label": "Planerad",
+                    "type": "plannedStatus",
+                    "value": "ALL_PLANNED"
+                }
+            ],
+            "dateRanges": {},
+            "sort": "plannedDate",
+            "articles": [],
+            "scrollPosition": 0,
+            "page": 1,
+            "pages": 0
+        },
+        "d2cce7f0-a140-4a8c-88dd-4b21aa6967b9": {
+            "id": "d2cce7f0-a140-4a8c-88dd-4b21aa6967b9",
+            "title": "anton | Ej tidsbestämd | Alla | Publicerade",
+            "showMine": false,
+            "searchFilters": [
+                {
+                    "id": "anton",
+                    "label": "anton",
+                    "type": "search",
+                    "value": "anton"
+                },
+                {
+                    "id": "plannedStatus.unspecified",
+                    "label": "Ej tidsbestämd",
+                    "type": "plannedStatus",
+                    "value": "PLANNED_UNSPECIFIED"
+                }
+            ],
+            "dateRanges": {
+                "custom": {
+                    "start": 1514761200000,
+                    "end": 1577833199999,
+                    "display": "1 jan till 31 december 2019"
+                }
+            },
+            "sort": "firstPublishedAt",
+            "articles": [],
+            "scrollPosition": 0,
+            "page": 1,
+            "pages": 0
+        },
+        "44da350c-bd3b-4dfb-a073-672b3c34e9dc": {
+            "id": "44da350c-bd3b-4dfb-a073-672b3c34e9dc",
+            "title": "Alla",
+            "showMine": false,
+            "searchFilters": [],
+            "dateRanges": {},
+            "sort": "updatedAt",
+            "articles": [],
+            "scrollPosition": 0,
+            "page": 1,
+            "pages": 11
+        }
+    },
+    "activeTab": "e6a1aa25-8e63-4e50-879a-7753ea72e004",
+    "tabOrder": [
+        "e6a1aa25-8e63-4e50-879a-7753ea72e004",
+        "dd0b839e-baac-4275-b06f-215638c72fd9",
+        "d2cce7f0-a140-4a8c-88dd-4b21aa6967b9"
+    ],
+    "closedTabs": [
+        "44da350c-bd3b-4dfb-a073-672b3c34e9dc"
+    ]
+}
