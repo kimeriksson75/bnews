@@ -1,96 +1,185 @@
 {
     "tabs": {
-        "e885e60c-c2be-4b86-b3ac-6174be15a3b0": {
+        "e6a1aa25-8e63-4e50-879a-7753ea72e004": {
+            "id": "e6a1aa25-8e63-4e50-879a-7753ea72e004",
+            "title": "Anton Boström (Byline) | Martin Aagård (Byline) | Sport (Sektion) | Utkast (Publiceringsstatus) | Med statusmeddelande | Endast mina",
             "articles": [],
-            "filter": {
-                "section": [],
-                "byline": [],
-                "plannedPublish": {
-                    "NOT_PLANNED": true
-                },
-                "dateRange": {
-                    "yesterday": false,
-                    "nextMonth": false,
-                    "thisMonth": false
-                },
-                "workStatus": {},
-                "contentTypesNotIncluded": [
-                    "image"
-                ]
-            },
-            "filterLabels": [
-                {
-                    "label": "Ej planerad (Planeringsstatus)",
-                    "type": "plannedPublish",
-                    "filterId": "NOT_PLANNED"
-                },
-                {
-                    "label": "Bild (Ej innehållstyp)",
-                    "type": "contentTypeNotIncluded",
-                    "filterId": "image"
-                }
-            ],
-            "id": "e885e60c-c2be-4b86-b3ac-6174be15a3b0",
             "scrollPosition": 0,
-            "search": "tv",
-            "showFilterSidebar": true,
-            "sort": "updatedAt",
-            "title": "tv | Ej planerad (Planeringsstatus) | Bild (Ej innehållstyp)",
             "page": 1,
-            "pages": 1
-        },
-        "50fb9f3e-05d0-440d-9c53-b34f3e4fd803": {
-            "articles": [],
+            "pages": 0,
             "filter": {
-                "showMine": true
+                "byline": [
+                    {
+                        "id": "author.d67615a4-12a1-6bc9-9aaf-e093b9eddd88",
+                        "label": "Anton Boström",
+                        "type": "byline",
+                        "value": {
+                            "id": "author.d67615a4-12a1-6bc9-9aaf-e093b9eddd88",
+                            "name": "Anton Boström",
+                            "email": "anton.bostrom@gt.se",
+                            "avatarUrl": null
+                        }
+                    },
+                    {
+                        "id": "author.9b1d5f14-32b9-01bf-94bd-93353335c29d",
+                        "label": "Martin Aagård",
+                        "type": "byline",
+                        "value": {
+                            "id": "author.9b1d5f14-32b9-01bf-94bd-93353335c29d",
+                            "name": "Martin Aagård",
+                            "email": "kulturen@expressen.se",
+                            "avatarUrl": null
+                        }
+                    }
+                ],
+                "section": [
+                    {
+                        "id": "standard-section.d362b100-6821-ca0a-03b8-b8e05eb07afb",
+                        "label": "Sport",
+                        "type": "section",
+                        "value": {
+                            "id": "standard-section.d362b100-6821-ca0a-03b8-b8e05eb07afb",
+                            "name": "Sport"
+                        }
+                    }
+                ],
+                "publishStatus": {
+                    "DRAFT": true
+                },
+                "statusMessage": true,
+                "showMine": true,
+                "dateRange": {}
             },
+            "showFilterSidebar": true,
             "filterLabels": [
+                {
+                    "label": "Anton Boström (Byline)",
+                    "type": "byline",
+                    "filterId": "author.d67615a4-12a1-6bc9-9aaf-e093b9eddd88"
+                },
+                {
+                    "label": "Martin Aagård (Byline)",
+                    "type": "byline",
+                    "filterId": "author.9b1d5f14-32b9-01bf-94bd-93353335c29d"
+                },
+                {
+                    "label": "Sport (Sektion)",
+                    "type": "section",
+                    "filterId": "standard-section.d362b100-6821-ca0a-03b8-b8e05eb07afb"
+                },
+                {
+                    "label": "Utkast (Publiceringsstatus)",
+                    "type": "publishStatus",
+                    "filterId": "DRAFT"
+                },
+                {
+                    "label": "Med statusmeddelande",
+                    "type": "statusMessage",
+                    "filterId": "statusMessage"
+                },
                 {
                     "label": "Endast mina",
                     "type": "showMine",
                     "filterId": "showMine"
                 }
-            ],
-            "id": "50fb9f3e-05d0-440d-9c53-b34f3e4fd803",
-            "scrollPosition": 0,
-            "search": "",
-            "showFilterSidebar": false,
-            "sort": "updatedAt",
-            "title": "Endast mina",
-            "page": 1,
-            "pages": 1
+            ]
         },
-        "3d8fc7c9-d630-4582-9665-9f80ecefe7c7": {
+        "dd0b839e-baac-4275-b06f-215638c72fd9": {
+            "id": "dd0b839e-baac-4275-b06f-215638c72fd9",
+            "title": "Planerad (Planeringsstatus) | Endast mina",
             "articles": [],
+            "scrollPosition": 0,
+            "page": 1,
+            "pages": 1,
             "filter": {
-                "publishStatus": {
-                    "PUBLISHED": true
-                },
-                "section": [],
-                "byline": []
+                "plannedStatus": [
+                    {
+                        "id": "plannedStatus.all",
+                        "label": "Planerad",
+                        "type": "plannedStatus",
+                        "value": "ALL_PLANNED"
+                    }
+                ],
+                "showMine": true,
+                "dateRange": {}
             },
+            "showFilterSidebar": false,
             "filterLabels": [
                 {
-                    "label": "Publicerad (Publiceringsstatus)",
-                    "type": "publishStatus",
-                    "filterId": "PUBLISHED"
+                    "label": "Planerad (Planeringsstatus)",
+                    "type": "plannedPublish",
+                    "filterId": "plannedStatus.all"
+                },
+                {
+                    "label": "Endast mina",
+                    "type": "showMine",
+                    "filterId": "showMine"
                 }
-            ],
-            "id": "3d8fc7c9-d630-4582-9665-9f80ecefe7c7",
+            ]
+        },
+        "d2cce7f0-a140-4a8c-88dd-4b21aa6967b9": {
+            "id": "d2cce7f0-a140-4a8c-88dd-4b21aa6967b9",
+            "title": "Ej tidsbestämd (Planeringsstatus) | 8 aug - 28 aug",
+            "articles": [],
             "scrollPosition": 0,
-            "search": "",
-            "showFilterSidebar": true,
-            "sort": "updatedAt",
-            "title": "Publicerad (Publiceringsstatus)",
             "page": 1,
-            "pages": 6
+            "pages": 1,
+            "filter": {
+                "plannedStatus": [
+                    {
+                        "id": "plannedStatus.unspecified",
+                        "label": "Ej tidsbestämd",
+                        "type": "plannedStatus",
+                        "value": "PLANNED_UNSPECIFIED"
+                    }
+                ],
+                "customDateRange": {
+                    "start": 1514761200000,
+                    "end": 1577833199999,
+                    "display": "1 jan till 31 december 2019"
+                },
+                "dateRange": {
+                    "custom": {
+                        "start": 1533716811634,
+                        "end": 1535444811648
+                    }
+                }
+            },
+            "showFilterSidebar": true,
+            "filterLabels": [
+                {
+                    "label": "Ej tidsbestämd (Planeringsstatus)",
+                    "type": "plannedPublish",
+                    "filterId": "plannedStatus.unspecified"
+                },
+                {
+                    "label": "8 aug - 28 aug",
+                    "type": "customDateRange",
+                    "filterId": "custom"
+                }
+            ]
+        },
+        "44da350c-bd3b-4dfb-a073-672b3c34e9dc": {
+            "id": "44da350c-bd3b-4dfb-a073-672b3c34e9dc",
+            "title": "Alla",
+            "articles": [],
+            "scrollPosition": 0,
+            "page": 1,
+            "pages": 11,
+            "filter": {
+                "dateRange": {}
+            },
+            "showFilterSidebar": false,
+            "filterLabels": []
         }
     },
-    "activeTab": "3d8fc7c9-d630-4582-9665-9f80ecefe7c7",
+    "activeTab": "d2cce7f0-a140-4a8c-88dd-4b21aa6967b9",
     "tabOrder": [
-        "e885e60c-c2be-4b86-b3ac-6174be15a3b0",
-        "50fb9f3e-05d0-440d-9c53-b34f3e4fd803",
-        "3d8fc7c9-d630-4582-9665-9f80ecefe7c7"
+        "e6a1aa25-8e63-4e50-879a-7753ea72e004",
+        "dd0b839e-baac-4275-b06f-215638c72fd9",
+        "d2cce7f0-a140-4a8c-88dd-4b21aa6967b9"
     ],
-    "closedTabs": []
+    "closedTabs": [
+        "44da350c-bd3b-4dfb-a073-672b3c34e9dc"
+    ]
 }
