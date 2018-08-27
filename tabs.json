@@ -1,29 +1,27 @@
 {
     "tabs": {
-        "48dacf5d-8e4d-4ffd-aca5-8955d7714aa2": {
-            "id": "48dacf5d-8e4d-4ffd-aca5-8955d7714aa2",
-            "title": "Mina | Igår",
-            "showMine": true,
-            "searchFilters": [],
-            "dateRanges": {
-                "yesterday": true
-            },
-            "sort": "updatedAt",
-            "articles": [],
-            "scrollPosition": 0,
-            "page": 1,
-            "pages": 1
-        },
-        "683a86cd-f6ee-4247-b2b8-141b4d1d74e7": {
-            "id": "683a86cd-f6ee-4247-b2b8-141b4d1d74e7",
-            "title": "magnusson | Alla",
+        "9fee31a4-23a2-4947-9146-46d490a80213": {
+            "id": "9fee31a4-23a2-4947-9146-46d490a80213",
+            "title": "Löfven | regera | stefan | Alla",
             "showMine": false,
             "searchFilters": [
                 {
-                    "id": "magnusson",
-                    "label": "magnusson",
+                    "id": "Löfven",
+                    "label": "Löfven",
                     "type": "search",
-                    "value": "magnusson"
+                    "value": "Löfven"
+                },
+                {
+                    "id": "regera",
+                    "label": "regera",
+                    "type": "search",
+                    "value": "regera"
+                },
+                {
+                    "id": "stefan",
+                    "label": "stefan",
+                    "type": "search",
+                    "value": "stefan"
                 }
             ],
             "dateRanges": {},
@@ -33,11 +31,40 @@
             "page": 1,
             "pages": 1
         },
-        "2f271c0d-27a7-45a1-a63c-dc9180a13ef9": {
-            "id": "2f271c0d-27a7-45a1-a63c-dc9180a13ef9",
-            "title": "Nyheter | Alla",
+        "8a9db7db-4a1a-49fc-ab4b-03e0f47cb7d1": {
+            "id": "8a9db7db-4a1a-49fc-ab4b-03e0f47cb7d1",
+            "title": "Mina",
+            "showMine": true,
+            "searchFilters": [],
+            "dateRanges": {
+                "custom": {
+                    "start": 1519858800000,
+                    "end": 1536616799999,
+                    "display": "1 mars till 10 sep"
+                }
+            },
+            "sort": "updatedAt",
+            "articles": [],
+            "scrollPosition": 0,
+            "page": 1,
+            "pages": 1
+        },
+        "73157414-75fc-44bb-ba56-6caeb523f229": {
+            "id": "73157414-75fc-44bb-ba56-6caeb523f229",
+            "title": "Adonis Adonis | Nyheter | Alla | Imorgon",
             "showMine": false,
             "searchFilters": [
+                {
+                    "id": "author.8616bbf9-178e-3a76-b1fb-3c3f1671a12c",
+                    "label": "Adonis Adonis",
+                    "type": "byline",
+                    "value": {
+                        "id": "author.8616bbf9-178e-3a76-b1fb-3c3f1671a12c",
+                        "name": "Adonis Adonis",
+                        "email": "kulturen@expressen.se",
+                        "avatarUrl": null
+                    }
+                },
                 {
                     "id": "standard-section.226fe0bc-e8f2-b4c7-87ad-b9483d5ece24",
                     "label": "Nyheter",
@@ -48,24 +75,8 @@
                     }
                 }
             ],
-            "dateRanges": {},
-            "sort": "updatedAt",
-            "articles": [],
-            "scrollPosition": 0,
-            "page": 1,
-            "pages": 0
-        },
-        "47544572-2703-4a60-82df-2a17cee3d396": {
-            "id": "47544572-2703-4a60-82df-2a17cee3d396",
-            "title": "Alla",
-            "showMine": false,
-            "searchFilters": [],
             "dateRanges": {
-                "custom": {
-                    "start": 1525125600000,
-                    "end": 1533074399999,
-                    "display": "1 maj till 31 juli"
-                }
+                "tomorrow": true
             },
             "sort": "updatedAt",
             "articles": [],
@@ -74,12 +85,11 @@
             "pages": 0
         }
     },
-    "activeTab": "48dacf5d-8e4d-4ffd-aca5-8955d7714aa2",
+    "activeTab": "73157414-75fc-44bb-ba56-6caeb523f229",
     "tabOrder": [
-        "48dacf5d-8e4d-4ffd-aca5-8955d7714aa2",
-        "683a86cd-f6ee-4247-b2b8-141b4d1d74e7",
-        "2f271c0d-27a7-45a1-a63c-dc9180a13ef9",
-        "47544572-2703-4a60-82df-2a17cee3d396"
+        "9fee31a4-23a2-4947-9146-46d490a80213",
+        "8a9db7db-4a1a-49fc-ab4b-03e0f47cb7d1",
+        "73157414-75fc-44bb-ba56-6caeb523f229"
     ],
     "closedTabs": []
 }
