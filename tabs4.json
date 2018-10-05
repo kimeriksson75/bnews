@@ -1,0 +1,213 @@
+{
+    "tabs": {
+        "73157414-75fc-44bb-ba56-6caeb523f229": {
+            "id": "73157414-75fc-44bb-ba56-6caeb523f229",
+            "title": "Hej | Utkast (Publiceringsstatus) | Imorgon (Tidsspann) | Faktaruta (Ej innehållstyp) | Metabeskrivning (Ej innehållstyp) | David Dsilna (Byline)",
+            "articles": [],
+            "scrollPosition": 0,
+            "page": 1,
+            "pages": 0,
+            "filter": {
+                "byline": [
+                    {
+                        "id": "author.d9929e6f-543b-1cd3-bb7d-0dda15f60da5",
+                        "label": "David Dsilna",
+                        "type": "byline",
+                        "value": {
+                            "id": "author.d9929e6f-543b-1cd3-bb7d-0dda15f60da5",
+                            "name": "David Dsilna",
+                            "email": "david.dsilna@expressen.se",
+                            "avatarUrl": null
+                        }
+                    }
+                ],
+                "section": [],
+                "dateRange": {
+                    "tomorrow": true
+                },
+                "publishStatus": {
+                    "DRAFT": true
+                },
+                "contentTypesNotIncluded": [
+                    "factbox",
+                    "seoDescription"
+                ]
+            },
+            "search": "Hej",
+            "showFilterSidebar": true,
+            "filterLabels": [
+                {
+                    "label": "Utkast (Publiceringsstatus)",
+                    "type": "publishStatus",
+                    "filterId": "DRAFT"
+                },
+                {
+                    "label": "Imorgon (Tidsspann)",
+                    "type": "dateRange",
+                    "filterId": "tomorrow"
+                },
+                {
+                    "label": "Faktaruta (Ej innehållstyp)",
+                    "type": "contentTypeNotIncluded",
+                    "filterId": "factbox"
+                },
+                {
+                    "label": "Metabeskrivning (Ej innehållstyp)",
+                    "type": "contentTypeNotIncluded",
+                    "filterId": "seoDescription"
+                },
+                {
+                    "label": "David Dsilna (Byline)",
+                    "type": "byline",
+                    "filterId": "author.d9929e6f-543b-1cd3-bb7d-0dda15f60da5"
+                }
+            ]
+        },
+        "9e351fba-c23e-4219-b9b0-6348305d0b7c": {
+            "articles": [],
+            "filter": {
+                "section": [
+                    {
+                        "type": "section",
+                        "id": "standard-section.226fe0bc-e8f2-b4c7-87ad-b9483d5ece24",
+                        "label": "Nyheter",
+                        "sublabel": "",
+                        "value": {
+                            "id": "standard-section.226fe0bc-e8f2-b4c7-87ad-b9483d5ece24",
+                            "name": "Nyheter"
+                        }
+                    }
+                ],
+                "topic": [],
+                "tag": [],
+                "dateRange": {
+                    "custom": {
+                        "start": 1527844790416,
+                        "end": 1540981190429
+                    }
+                },
+                "byline": [
+                    {
+                        "id": "author.b3ac66da-e648-45c0-af0e-c54cc7ec3e4c",
+                        "label": "Kajsa Kalméus",
+                        "type": "byline",
+                        "value": {
+                            "id": "author.b3ac66da-e648-45c0-af0e-c54cc7ec3e4c",
+                            "name": "Kajsa Kalméus",
+                            "email": "sport@gt.se",
+                            "avatarUrl": null
+                        }
+                    }
+                ]
+            },
+            "filterLabels": [
+                {
+                    "label": "Nyheter (Sektion)",
+                    "type": "section",
+                    "filterId": "standard-section.226fe0bc-e8f2-b4c7-87ad-b9483d5ece24"
+                },
+                {
+                    "label": "1 jun - 31 okt",
+                    "type": "customDateRange",
+                    "filterId": "custom"
+                },
+                {
+                    "label": "Kajsa Kalméus (Byline)",
+                    "type": "byline",
+                    "filterId": "author.b3ac66da-e648-45c0-af0e-c54cc7ec3e4c"
+                }
+            ],
+            "id": "9e351fba-c23e-4219-b9b0-6348305d0b7c",
+            "scrollPosition": 0,
+            "search": "",
+            "showFilterSidebar": true,
+            "sort": "updatedAt",
+            "title": "Nyheter (Sektion) | 1 jun - 31 okt | Kajsa Kalméus (Byline)",
+            "page": 1,
+            "pages": 0
+        },
+        "ea013fb9-3377-4107-85ab-984abf8e1969": {
+            "articles": [],
+            "filter": {},
+            "filterLabels": [],
+            "id": "ea013fb9-3377-4107-85ab-984abf8e1969",
+            "scrollPosition": 0,
+            "search": "Hej",
+            "showFilterSidebar": false,
+            "sort": "updatedAt",
+            "title": "Hej",
+            "page": 1,
+            "pages": 1
+        },
+        "9fee31a4-23a2-4947-9146-46d490a80213": {
+            "id": "9fee31a4-23a2-4947-9146-46d490a80213",
+            "title": "Löfven regera stefan",
+            "articles": [],
+            "scrollPosition": 0,
+            "page": 1,
+            "pages": 0,
+            "filter": {
+                "dateRange": {},
+                "byline": []
+            },
+            "search": "Löfven regera stefan",
+            "showFilterSidebar": false,
+            "filterLabels": []
+        },
+        "8a9db7db-4a1a-49fc-ab4b-03e0f47cb7d1": {
+            "id": "8a9db7db-4a1a-49fc-ab4b-03e0f47cb7d1",
+            "title": "Endast mina | 1 mar - 10 sep",
+            "articles": [],
+            "scrollPosition": 0,
+            "page": 1,
+            "pages": 1,
+            "filter": {
+                "showMine": true,
+                "dateRange": {
+                    "custom": {
+                        "start": 1519858800000,
+                        "end": 1536616799999,
+                        "display": "1 mars till 10 sep"
+                    }
+                },
+                "byline": [
+                    {
+                        "id": "author.e89e5b18-e4da-e2c3-cc3c-b0613bcb21d9",
+                        "label": "Gabi Gleichmann",
+                        "type": "byline",
+                        "value": {
+                            "id": "author.e89e5b18-e4da-e2c3-cc3c-b0613bcb21d9",
+                            "name": "Gabi Gleichmann",
+                            "email": "kulturen@expressen.se",
+                            "avatarUrl": null
+                        }
+                    }
+                ]
+            },
+            "search": "",
+            "showFilterSidebar": false,
+            "filterLabels": [
+                {
+                    "label": "Endast mina",
+                    "type": "showMine",
+                    "filterId": "showMine"
+                },
+                {
+                    "label": "1 mar - 10 sep",
+                    "type": "customDateRange",
+                    "filterId": "custom"
+                }
+            ]
+        }
+    },
+    "activeTab": "ea013fb9-3377-4107-85ab-984abf8e1969",
+    "tabOrder": [
+        "73157414-75fc-44bb-ba56-6caeb523f229",
+        "9e351fba-c23e-4219-b9b0-6348305d0b7c",
+        "ea013fb9-3377-4107-85ab-984abf8e1969"
+    ],
+    "closedTabs": [
+        "9fee31a4-23a2-4947-9146-46d490a80213",
+        "8a9db7db-4a1a-49fc-ab4b-03e0f47cb7d1"
+    ]
+}
