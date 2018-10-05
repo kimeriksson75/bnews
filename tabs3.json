@@ -1,0 +1,140 @@
+{
+    "tabs": {
+        "73157414-75fc-44bb-ba56-6caeb523f229": {
+            "id": "73157414-75fc-44bb-ba56-6caeb523f229",
+            "title": "Eddie Ekberg (Byline) | Kajsa Kalméus (Byline) | Gabi Gleichmann (Byline)",
+            "articles": [],
+            "scrollPosition": 0,
+            "page": 1,
+            "pages": 0,
+            "filter": {
+                "byline": [
+                    {
+                        "id": "author.f36d0985-a1b6-24fc-2e45-5a5679a75383",
+                        "label": "Eddie Ekberg",
+                        "type": "byline",
+                        "value": {
+                            "id": "author.f36d0985-a1b6-24fc-2e45-5a5679a75383",
+                            "name": "Eddie Ekberg",
+                            "email": "eddie.ekberg@gt.se",
+                            "avatarUrl": null
+                        }
+                    },
+                    {
+                        "id": "author.b3ac66da-e648-45c0-af0e-c54cc7ec3e4c",
+                        "label": "Kajsa Kalméus",
+                        "type": "byline",
+                        "value": {
+                            "id": "author.b3ac66da-e648-45c0-af0e-c54cc7ec3e4c",
+                            "name": "Kajsa Kalméus",
+                            "email": "sport@gt.se",
+                            "avatarUrl": null
+                        }
+                    },
+                    {
+                        "id": "author.e89e5b18-e4da-e2c3-cc3c-b0613bcb21d9",
+                        "label": "Gabi Gleichmann",
+                        "type": "byline",
+                        "value": {
+                            "id": "author.e89e5b18-e4da-e2c3-cc3c-b0613bcb21d9",
+                            "name": "Gabi Gleichmann",
+                            "email": "kulturen@expressen.se",
+                            "avatarUrl": null
+                        }
+                    }
+                ],
+                "section": [],
+                "dateRange": {
+                    "tomorrow": false
+                }
+            },
+            "search": "",
+            "showFilterSidebar": false,
+            "filterLabels": [
+                {
+                    "label": "Eddie Ekberg (Byline)",
+                    "type": "byline",
+                    "filterId": "author.f36d0985-a1b6-24fc-2e45-5a5679a75383"
+                },
+                {
+                    "label": "Kajsa Kalméus (Byline)",
+                    "type": "byline",
+                    "filterId": "author.b3ac66da-e648-45c0-af0e-c54cc7ec3e4c"
+                },
+                {
+                    "label": "Gabi Gleichmann (Byline)",
+                    "type": "byline",
+                    "filterId": "author.e89e5b18-e4da-e2c3-cc3c-b0613bcb21d9"
+                }
+            ]
+        },
+        "9fee31a4-23a2-4947-9146-46d490a80213": {
+            "id": "9fee31a4-23a2-4947-9146-46d490a80213",
+            "title": "Löfven regera stefan",
+            "articles": [],
+            "scrollPosition": 0,
+            "page": 1,
+            "pages": 0,
+            "filter": {
+                "dateRange": {},
+                "byline": []
+            },
+            "search": "Löfven regera stefan",
+            "showFilterSidebar": false,
+            "filterLabels": []
+        },
+        "8a9db7db-4a1a-49fc-ab4b-03e0f47cb7d1": {
+            "id": "8a9db7db-4a1a-49fc-ab4b-03e0f47cb7d1",
+            "title": "Endast mina | 1 mar - 10 sep",
+            "articles": [],
+            "scrollPosition": 0,
+            "page": 1,
+            "pages": 1,
+            "filter": {
+                "showMine": true,
+                "dateRange": {
+                    "custom": {
+                        "start": 1519858800000,
+                        "end": 1536616799999,
+                        "display": "1 mars till 10 sep"
+                    }
+                },
+                "byline": [
+                    {
+                        "id": "author.e89e5b18-e4da-e2c3-cc3c-b0613bcb21d9",
+                        "label": "Gabi Gleichmann",
+                        "type": "byline",
+                        "value": {
+                            "id": "author.e89e5b18-e4da-e2c3-cc3c-b0613bcb21d9",
+                            "name": "Gabi Gleichmann",
+                            "email": "kulturen@expressen.se",
+                            "avatarUrl": null
+                        }
+                    }
+                ]
+            },
+            "search": "",
+            "showFilterSidebar": false,
+            "filterLabels": [
+                {
+                    "label": "Endast mina",
+                    "type": "showMine",
+                    "filterId": "showMine"
+                },
+                {
+                    "label": "1 mar - 10 sep",
+                    "type": "customDateRange",
+                    "filterId": "custom"
+                }
+            ]
+        }
+    },
+    "activeTab": "73157414-75fc-44bb-ba56-6caeb523f229",
+    "tabOrder": [
+        "73157414-75fc-44bb-ba56-6caeb523f229"
+    ],
+    "closedTabs": [
+        "9fee31a4-23a2-4947-9146-46d490a80213",
+        "8a9db7db-4a1a-49fc-ab4b-03e0f47cb7d1"
+    ]
+}
