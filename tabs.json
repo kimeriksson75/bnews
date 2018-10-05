@@ -67,6 +67,66 @@
                     "filterId": "author.e89e5b18-e4da-e2c3-cc3c-b0613bcb21d9"
                 }
             ]
+        },
+        "9fee31a4-23a2-4947-9146-46d490a80213": {
+            "id": "9fee31a4-23a2-4947-9146-46d490a80213",
+            "title": "Löfven regera stefan",
+            "articles": [],
+            "scrollPosition": 0,
+            "page": 1,
+            "pages": 0,
+            "filter": {
+                "dateRange": {},
+                "byline": []
+            },
+            "search": "Löfven regera stefan",
+            "showFilterSidebar": false,
+            "filterLabels": []
+        },
+        "8a9db7db-4a1a-49fc-ab4b-03e0f47cb7d1": {
+            "id": "8a9db7db-4a1a-49fc-ab4b-03e0f47cb7d1",
+            "title": "Endast mina | 1 mar - 10 sep",
+            "articles": [],
+            "scrollPosition": 0,
+            "page": 1,
+            "pages": 1,
+            "filter": {
+                "showMine": true,
+                "dateRange": {
+                    "custom": {
+                        "start": 1519858800000,
+                        "end": 1536616799999,
+                        "display": "1 mars till 10 sep"
+                    }
+                },
+                "byline": [
+                    {
+                        "id": "author.e89e5b18-e4da-e2c3-cc3c-b0613bcb21d9",
+                        "label": "Gabi Gleichmann",
+                        "type": "byline",
+                        "value": {
+                            "id": "author.e89e5b18-e4da-e2c3-cc3c-b0613bcb21d9",
+                            "name": "Gabi Gleichmann",
+                            "email": "kulturen@expressen.se",
+                            "avatarUrl": null
+                        }
+                    }
+                ]
+            },
+            "search": "",
+            "showFilterSidebar": false,
+            "filterLabels": [
+                {
+                    "label": "Endast mina",
+                    "type": "showMine",
+                    "filterId": "showMine"
+                },
+                {
+                    "label": "1 mar - 10 sep",
+                    "type": "customDateRange",
+                    "filterId": "custom"
+                }
+            ]
         }
     },
     "activeTab": "73157414-75fc-44bb-ba56-6caeb523f229",
